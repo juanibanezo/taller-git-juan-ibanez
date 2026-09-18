@@ -1,0 +1,14 @@
+/* Reseteo básico de márgenes */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo general del cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
